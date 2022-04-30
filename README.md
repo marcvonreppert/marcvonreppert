@@ -1,4 +1,4 @@
-♟️ chess enthusiast and proud ginger
+♟️ 
 
 <!---
 marcvonreppert/marcvonreppert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
